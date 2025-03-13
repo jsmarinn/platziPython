@@ -3,6 +3,8 @@ Este proyecto contiene los ejercicios de las clases del curso de Python en la pl
 
 ### Archivos
 
-- ***calculadora.py*** : Ejercicio para simular una calculadora que realiza las operaciones básicas de suma, resta, multiplicación y división. los métodos para las operaciones están realizadas con funciones ***lambdas***
+- **calculadora.py:** Ejercicio para simular una calculadora que realiza las operaciones básicas de suma, resta, multiplicación y división. los métodos para las operaciones están realizadas con funciones ***lambdas***
 
-- ***concesionario_herencia.py*** : Ejercicio en el que se crean una clase padre ***Vehículo*** de la cual heredan las clases ***Carro***, ***Bicicleta*** y ***Camión***, implementando cada una el método heredado ***encender()***. Además se incluye el guardado de la información de instancias de la clase carro en un archivo ***.csv***.
+- **concesionario_herencia.py:** Ejercicio en el que se crean una clase padre ***Vehículo*** de la cual heredan las clases ***Carro***, ***Bicicleta*** y ***Camión***, implementando cada una el método heredado ***encender()***. Además se incluye el guardado de la información de instancias de la clase carro en un archivo ***.csv***.
+
+- **convert_csv_to_json.py:** Ejercicio en el que se toma un archivo csv ___'products.csv'___ y se convierte en formato json en el archivo ___'csv_2_json.json'___
